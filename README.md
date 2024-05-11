@@ -22,13 +22,14 @@ Ministry of Environment
 
 
 ## Proposed Solution / Architecture Diagram
-![alt text](<sih web.jpeg>)
+![alt text](<sih 11.png>)
 
 ## Use Cases
-![alt text](<sih 2.jpeg>)
+![alt text](sin12.jpeg)
 
 ## Technology Stack
-![alt text](sih3.png)
+![alt text](sih13.png)
+
 Frontend:
 
 React.js: A JavaScript library for building user interfaces. React provides a component-based architecture, making it easy to develop interactive and responsive frontend interfaces for the locator application.
